@@ -1,2 +1,2 @@
-# nashville-deepdish
-This repository will use data analytics to determine the best neighborhood to open a Chicago Deep Dish Pizza Restaurant in Nashville
+# chicago-houston
+This repository will use Foursquare location data to find any similarities or dissimilarities between Chicago and Houston.
